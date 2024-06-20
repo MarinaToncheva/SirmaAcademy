@@ -1,0 +1,24 @@
+.style-normal {
+  font-style: normal;
+}
+
+.style-italic {
+  font-style: italic;
+}
+
+.style-oblique {
+  font-style: oblique;
+}
+
+.weight-normal {
+  font-weight: normal;
+}
+
+.weight-bold {
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
+  font-size: 24px;
+}

@@ -1,0 +1,15 @@
+h1,
+p {
+  color: blue;
+  font-family: "Verdana", sans-serif;
+  margin-bottom: 40px;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
