@@ -1,0 +1,31 @@
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+button:hover {
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+h1,
+h2 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #008cba;
+  color: white;
+  margin-right: 10px;
+}

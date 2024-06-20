@@ -1,0 +1,26 @@
+.bg-image1 {
+  background-image: url("pantera.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+  margin: 50px;
+}
+
+.bg-image2 {
+  background-image: url("pantera2.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+  margin: 50px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 24px;
+}
