@@ -1,0 +1,17 @@
+#purple-heading {
+  color: purple;
+}
+
+#blue-large {
+  color: blue;
+  font-size: 46px;
+}
+
+#red-bold {
+  color: red;
+  font-weight: bold;
+}
+
+#green-paragraph {
+  color: green;
+}
