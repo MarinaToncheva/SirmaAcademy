@@ -1,0 +1,16 @@
+h1 {
+    color: purple;
+    font-size: 53px;
+}
+
+p {
+    color: blue;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: yellow;
+}
+
+div {
+    color: orange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
