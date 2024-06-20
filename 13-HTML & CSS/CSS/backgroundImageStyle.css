@@ -1,23 +1,23 @@
-.bg-cover {
-  background-image: url("pantera.jpg");
+.bg-image1 {
+  background-image: url('../HTML/pantera.jpg');
   background-size: cover;
   background-position: center;
-  height: 600px;
+  height: 800px;
   text-align: center;
   color: white;
   padding-top: 50px;
-  margin: 80px;
+  margin: 50px;
 }
 
-.bg-contain {
-  background-image: url("pantera2.jpg");
-  background-size: contain;
+.bg-image2 {
+  background-image: url('../HTML/pantera2.jpg');
+  background-size: cover;
   background-position: center;
-  height: 300px;
+  height: 500px;
   text-align: center;
   color: white;
   padding-top: 50px;
-  margin: 80px;
+  margin: 50px;
 }
 
 h1 {
