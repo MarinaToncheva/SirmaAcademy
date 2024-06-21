@@ -1,0 +1,8 @@
+.percentage-width {
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
