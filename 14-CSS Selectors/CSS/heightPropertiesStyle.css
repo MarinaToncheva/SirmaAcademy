@@ -1,0 +1,12 @@
+.height-example {
+  height: 50vh;
+  min-height: 100px;
+  max-height: 400px;
+  background-color: lightblue;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

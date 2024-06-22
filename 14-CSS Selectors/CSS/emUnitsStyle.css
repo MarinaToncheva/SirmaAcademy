@@ -1,13 +1,13 @@
 .parent {
-    font-size: 30px;
-    background-color: lightgrey;
-    padding: 20px;
-    border: 1px solid black;
+  font-size: 30px;
+  background-color: lightgrey;
+  padding: 20px;
+  border: 1px solid black;
 }
 
 .child {
-    font-size: 1.5em;
-    background-color: lightcoral;
-    padding: 10px;
-    border: 1px solid black;
+  font-size: 1.5em;
+  background-color: lightcoral;
+  padding: 10px;
+  border: 1px solid black;
 }

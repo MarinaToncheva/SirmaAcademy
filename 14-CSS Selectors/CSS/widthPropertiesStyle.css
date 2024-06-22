@@ -1,0 +1,9 @@
+.width-example {
+  width: 50%;
+  min-width: 200px;
+  max-width: 600px;
+  background-color: lightcoral;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+}
